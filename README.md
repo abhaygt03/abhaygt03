@@ -2,14 +2,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on flutter application and web development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as - student
+- 🌱 I’m currently learning - flutter
+- 👯 I’m looking to collaborate on - flutter application and web development
+- 💬 Ask me about - Anything related to web / mobile development
+- 📫 How to reach me - http://aportjbn.herokuapp.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact -  The first computer bug was an actual bug
 
 
 
