@@ -10,6 +10,4 @@ Here is more about me:
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=tokyonight&layout=compact" />
 
-[website]: https://aportjbn.herokuapp.com
-[instagram]: https://instagram.com/abhay_gt03
-[linkedin]: https://linkedin.com/in/abhay-gautam-509a93183/
+
