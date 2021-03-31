@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=radical)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=radical&layout=compact)
+[![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaygt03&theme=radical)]
