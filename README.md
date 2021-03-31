@@ -16,5 +16,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaygt03&theme=radical&hide=issues,stars" />
 </a>
 <a href="https://github.com/abhaygt03/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=radical&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=radical&layout=compact" />
 </a>
