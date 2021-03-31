@@ -9,5 +9,7 @@ Here is more about me:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaygt03&theme=tokyonight&hide=issues,stars&count_private=true&show_icons=true" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=tokyonight&layout=compact" />
-  <a href="http://aportjbn.herokuapp.com"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=tokyonight&layout=compact" /></a>
 
+[website]: https://aportjbn.herokuapp.com
+[instagram]: https://instagram.com/abhay_gt03
+[linkedin]: https://linkedin.com/in/abhay-gautam-509a93183/
