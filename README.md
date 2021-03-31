@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here is more about me:
 
 - 🔭 I’m currently working as - student
 - 🌱 I’m currently learning - flutter
