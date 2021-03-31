@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaygt03&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=radical&layout=compact)
 <a href="https://github.com/abhaygt03/github-readme-stats">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygt03&theme=radical&layout=compact)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
