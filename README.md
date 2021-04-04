@@ -2,7 +2,7 @@
 
 Here is more about me:
 
- -🔭 I’m currently working as - student<br>- 🌱 I’m currently learning - flutter<br>- 👯 I’m looking to collaborate on - flutter application and web development<br>- 💬 Ask me about - Anything related to web / mobile development<br>- 📫 How to reach me - https://aportjbn.herokuapp.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact -  The first computer bug was an actual bug
+ -🔭 I’m currently working as - student<br>- 🌱 I’m currently learning - flutter<br>- 👯 I’m looking to collaborate on - flutter application and web development<br>- 💬 Ask me about - Anything related to web / mobile development<br>- 📫 How to reach me - https://aportjbn.herokuapp.com<br>- 😄 Pronouns- He/Him<br>- ⚡ Fun fact -  The first computer bug was an actual bug
 
 
 
